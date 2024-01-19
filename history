@@ -1,0 +1,263 @@
+: rename secondWindow.py
+: rename SecondWindow.py
+: createfile nvim-autopairs.lua
+: createfile lsp_signature.lua
+: q
+: q
+: rename lfrc1
+: rename lfrc1
+: rename lfrc1
+: createfile PowershellFunctions.ps1
+: source C:/Users/mcraf/.config/lf/lfrc
+: NewFile
+: rm
+$ Remove-Item 1
+: source C:/Users/mcraf/.config/lf/lfrc
+: source C:/Users/mcraf/.config/lf/lfrc
+: source C:/Users/mcraf/.config/lf/lfrc
+: source C:/Users/mcraf/.config/lf/lfrc
+: NewFile myName.ps1
+: source C:/Users/mcraf/.config/lf/lfrc
+: doc
+: doc
+: source C:/Users/mcraf/.config/lf/lfrc
+: NewFile
+: source C:/Users/mcraf/.config/lf/lfrc
+$ New-Item -Type File newItem
+$ Remove-Item newItem 
+: source C:/Users/mcraf/.config/lf/lfrc
+$ New-Item -Type Folder FolderName
+: source C:/Users/mcraf/.config/lf/lfrc
+$ New-Item -Type Directory New-Folder
+$ Remove-Item New-Folder\\
+: cd %fx%
+: source C:/Users/mcraf/.config/lf/lfrc
+$ New-Item -Type File file
+$ Remove-Item $Env:f
+$ Remove-Item $Env:f
+: source C:/Users/mcraf/.config/lf/lfrc
+$ Remove-Item 2023-11-04.md 
+$ Remove-Item $Env:f
+$ Remove-Item %f%
+$ Remove-Item Env:f
+$ Remove-Item Env:f
+$ Remove-Item Env:f
+$ Remove-Item Env:fx
+$ Remove-Item Env:fs
+$ New-Item -Type File CopyTest.py
+$ Remove-Item 2023-11-04.md 
+$ Remove-Item 2023-11-04.md 
+: source C:/Users/mcraf/.config/lf/lfrc
+: source C:/Users/mcraf/.config/lf/lfrc
+: source C:/Users/mcraf/.config/lf/lfrc
+$ Remove-Item file
+$ Remove-Item PowershellFunctions.ps1 
+$ Remove-Item shada
+: source C:/Users/mcraf/.config/lf/lfrc
+: source C:/Users/mcraf/.config/lf/lfrc
+: q
+: source C:/Users/mcraf/.config/lf/lfrc
+: source C:/Users/mcraf/.config/lf/lfrc
+$ Remove-Item nvim-pager
+: q
+: q
+$ New-Item -Type Directory nvim-pager
+$ git clone git@github.com:I60R/page.git & cd page & cargo install --path .
+: q
+$ Remove-Item NvChad\\
+: q
+$ Remove-Item Lua
+$ Remove-Item NvChad old plugins
+$ Remove-Item NvChad, old, plugins
+$ Remove-Item NvChad
+$ Remove-Item luarc.json
+: q
+$ New-Item -Type Directory C++Programs
+$ New-Item -Type Directory CPP-Folder
+$ Remove-Item CPP-Folder
+: q
+: q
+$ Remove-Item NvChad
+$ Remove-Item LICENSE
+$ Remove-Item NvChad -Recurse
+: q
+: q
+: q
+: q
+$ New-Item -Type Directory custom
+$ New-Item -Type File chadrc.lua
+$ New-Item -Type File plugins.lua
+$ New-Item -Type File init.lua
+$ Remove-Item init.lua
+$ Remove-Item chardc.lua
+$ New-Item -Type File init.lua
+$ Remove-Item USER
+: Q
+: q
+: q
+$ New-Item -Type File lspconfig.lua
+$ New-Item -Type File lspconfig.lua
+: q
+: q
+: q
+: q
+: q
+: q
+$ Remove-Item nvim-data
+: q
+: q
+$ New-Item -Type Directory configs
+$ Remove-Item lspconfig.lua
+$ New-Item -Type File toggleterm.lua
+: q
+$ Remove-Item truezen.lua
+: q
+: q
+$ New-Item -Type File zen-mode.lua
+$ New-Item -Type Directory PowershellScripts
+$ New-Item -Type File ClipSelectedFile.ps1
+$ ~\.config\lf\PowershellScripts\ClipSelectedFile.ps1
+$ ~\.config\lf\PowershellScripts\ClipSelectedFile.ps1
+$ ~\.config\lf\PowershellScripts\ClipSelectedFile.ps1
+$ New-Item -Type Directory opts
+$ Remove-Item toggleterm.lua
+$ ~\.config\lf\PowershellScripts\ClipSelectedFile.ps1
+$ Remove-Item opts
+: q
+: q
+$ ~\.config\lf\PowershellScripts\ClipSelectedFile.ps1
+$ New-Item -Type File test.file
+$ ~\.config\lf\PowershellScripts\ClipSelectedFile.ps1
+$ New-Item -Type Directory godotTestC#
+: q
+: q
+$ ~\.config\lf\PowershellScripts\DeleteSelectedFile.ps1
+$ Remove-Item Assembly-CSharp-Editor.csproj
+$ Remove-Item Assembly-CSharp.csproj Assembly-CSharp.Player.csproj 
+$ Remove-Item Assembly-CSharp.csproj, Assembly-CSharp.Player.csproj 
+$ ~\.config\lf\PowershellScripts\DeleteSelectedFile.ps1
+$ ~\.config\lf\PowershellScripts\DeleteSelectedFile.ps1
+$ ~\.config\lf\PowershellScripts\DeleteSelectedFile.ps1
+$ ~\.config\lf\PowershellScripts\DeleteSelectedFile.ps1
+: q
+$ ~\.config\lf\PowershellScripts\DeleteSelectedFile.ps1
+$ ~\.config\lf\PowershellScripts\DeleteSelectedFile.ps1
+$ ~\.config\lf\PowershellScripts\DeleteSelectedFile.ps1
+$ ~\.config\lf\PowershellScripts\DeleteSelectedFile.ps1
+$ ~\.config\lf\PowershellScripts\DeleteSelectedFile.ps1
+% ~\.config\lf\PowershellScripts\DeleteSelectedFile.ps1
+& ~\.config\lf\PowershellScripts\DeleteSelectedFile.ps1
+: cmd-delete
+: cmd-delete
+& ~\.config\lf\PowershellScripts\DeleteSelectedFile.ps1
+$ ~\.config\lf\PowershellScripts\ClipSelectedFile.ps1
+$ Remove-Item "D:\Unity Projects\MovementTest\Assets\Scripts\Cinemachine.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\Cinemachine.Player.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\com.unity.cinemachine.editor.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\FullscreenEditor.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\Lofelt.NiceVibrations.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\Lofelt.NiceVibrations.Demo.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\Lofelt.NiceVibrations.Demo.Player.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\Lofelt.NiceVibrations.Editor.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\Lofelt.NiceVibrations.Player.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\MoreMountains.Feedbacks.Authorizations.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\MoreMountains.Feedbacks.Authorizations.Player.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\MoreMountains.Feedbacks.Cinemachine.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\MoreMountains.Feedbacks.Cinemachine.Player.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\MoreMountains.Feedbacks.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\MoreMountains.Feedbacks.Editor.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\MoreMountains.Feedbacks.HDRP.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\MoreMountains.Feedbacks.HDRP.Player.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\MoreMountains.Feedbacks.MMTools.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\MoreMountains.Feedbacks.MMTools.Player.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\MoreMountains.Feedbacks.NiceVibrations.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\MoreMountains.Feedbacks.NiceVibrations.Player.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\MoreMountains.Feedbacks.Player.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\MoreMountains.Feedbacks.PostProcessing.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\MoreMountains.Feedbacks.PostProcessing.Player.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\MoreMountains.Feedbacks.TextMeshPro.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\MoreMountains.Feedbacks.TextMeshPro.Player.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\MoreMountains.Feedbacks.URP.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\MoreMountains.Feedbacks.URP.Player.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\MoreMountains.Tools.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\MoreMountains.Tools.Editor.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\MoreMountains.Tools.Player.csproj"
+$ ~\.config\lf\PowershellScripts\DeleteSelectedFile.ps1
+$ ~\.config\lf\PowershellScripts\ClipSelectedFile.ps1
+$ Remove-Item "D:\Unity Projects\MovementTest\Assets\Scripts\test.file","D:\Unity Projects\MovementTest\Assets\Scripts\Unity.Burst.CodeGen.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\Unity.Burst.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\Unity.Burst.Editor.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\Unity.Burst.Player.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\Unity.CollabProxy.Editor.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\Unity.InputSystem.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\Unity.InputSystem.ForUI.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\Unity.InputSystem.ForUI.Player.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\Unity.InputSystem.Player.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\Unity.InputSystem.TestFramework.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\Unity.InputSystem.TestFramework.Player.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\Unity.Mathematics.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\Unity.Mathematics.Editor.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\Unity.Mathematics.Player.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\Unity.PlasticSCM.Editor.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\Unity.RenderPipeline.Universal.ShaderLibrary.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\Unity.RenderPipeline.Universal.ShaderLibrary.Player.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\Unity.RenderPipelines.Core.Editor.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\Unity.RenderPipelines.Core.Runtime.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\Unity.RenderPipelines.Core.Runtime.Player.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\Unity.RenderPipelines.Core.ShaderLibrary.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\Unity.RenderPipelines.Core.ShaderLibrary.Player.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.Player.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\Unity.RenderPipelines.Universal.Config.Runtime.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\Unity.RenderPipelines.Universal.Config.Runtime.Player.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\Unity.RenderPipelines.Universal.Editor.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\Unity.RenderPipelines.Universal.Runtime.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\Unity.RenderPipelines.Universal.Runtime.Player.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\Unity.RenderPipelines.Universal.Shaders.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\Unity.RenderPipelines.Universal.Shaders.Player.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\Unity.Rider.Editor.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\Unity.Searcher.Editor.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\Unity.ShaderGraph.Editor.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\Unity.ShaderGraph.Utilities.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\Unity.TextMeshPro.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\Unity.TextMeshPro.Editor.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\Unity.TextMeshPro.Player.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\Unity.Timeline.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\Unity.Timeline.Editor.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\Unity.Timeline.Player.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\Unity.VisualScripting.Core.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\Unity.VisualScripting.Core.Editor.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\Unity.VisualScripting.Core.Player.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\Unity.VisualScripting.Flow.csproj"
+$ ~\.config\lf\PowershellScripts\ClipSelectedFile.ps1
+$ ~\.config\lf\PowershellScripts\ClipSelectedFile.ps1
+$ ~\.config\lf\PowershellScripts\ClipSelectedFile.ps1
+$ ~\.config\lf\PowershellScripts\DeleteSelectedFile.ps1
+$ ~\.config\lf\PowershellScripts\DeleteSelectedFile.ps1
+! ~\.config\lf\PowershellScripts\DeleteSelectedFile.ps1
+! ~\.config\lf\PowershellScripts\DeleteSelectedFile.ps1
+! ~\.config\lf\PowershellScripts\DeleteSelectedFile.ps1
+$ ~\.config\lf\PowershellScripts\ClipSelectedFile.ps1
+$ Remove-Item "D:\Unity Projects\MovementTest\Assets\Scripts\Assembly-CSharp-Editor.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\Assembly-CSharp.csproj","D:\Unity Projects\MovementTest\Assets\Scripts\Assembly-CSharp.Player.csproj"
+! ~\.config\lf\PowershellScripts\DeleteSelectedFile.ps1
+! ~\.config\lf\PowershellScripts\DeleteSelectedFile.ps1
+! ~\.config\lf\PowershellScripts\DeleteSelectedFile.ps1
+! ~\.config\lf\PowershellScripts\DeleteSelectedFile.ps1
+! ~\.config\lf\PowershellScripts\DeleteSelectedFile.ps1
+! ~\.config\lf\PowershellScripts\DeleteSelectedFile.ps1
+! ~\.config\lf\PowershellScripts\DeleteSelectedFile.ps1
+! ~\.config\lf\PowershellScripts\DeleteSelectedFile.ps1
+$ New-Item -Type File DeleteSelectedFile.ps1
+$ New-Item -Type File SavePWDAndExit.ps1
+$ ~\.config\lf\PowershellScripts\DeleteSelectedFile.ps1
+: lf -doc
+: -help
+: q
+: q
+: q
+$ New-Item tinyFile.
+$ New-Item -ItemType "directory" myFolder
+$ New-Item RunLfInCdAsAdmin.ps1
+: q
+: q
+: q
+$ eledo Remove-Item nvimPager\\
+$ New-Item RenameSelectedFile.ps1
+: q
+: q
+: q
+: q
+: q
+: q
+: q
+$ Rename-Item smart-splits.lua smart_splits.lua
+$ Rename-Item -Path smart-splits.lua smart_splits.lua -NewName smart_splits.lua
+$ Rename-Item -Path 'smart-splits.lua smart_splits.lua' -NewName 'smart_splits.lua'
+$ New-Item smart-splits.lua
+: q
+: q
+$ New-Item -ItemType "directory" discrete mathematics
+$ New-Item -ItemType "directory" discreteMath
+$ New-Item obsidian.nvim.lua
+$ Rename-Item -Path obsidian.nvim.lua -NewName obsidianNvim.lua
+: q
+: q
+$ New-Item propositions.md
+$ git init
+$ git add .
+$  git commit -m "first commit"
+$ git remote add origin https://github.com/jamesonBradfield/NvJamie.git
+$ git init
+: q
+: q
+$ Rename-Item -Path "project.txt" -NewName "d:\archive\old-project.txt"
+: q
+$ RenameItem -FilePath StateMachine.cd.~1~ -NewName PlayerStateMachine.cs
+$ RenameItem -Path StateMachine.cd.~1~ -NewName PlayerStateMachine.cs
+$ RenameItem -Path StateMachine.cs.~1~ -NewName PlayerStateMachine.cs
+: q
+: q
+: q
+: q
+: q
+: q
+: q
+$ git add .
+$ New-Item obsidianNvim.lua
+: q
+: q
+: q
+: q
+: Q
+: q
+: q
+: q
+$ New-Item RecolumnLF.psq
+$ New-Item RenameFile.ps1
+: q
+: wq
+: q
+: q
+: q
+: q
+: q
+: q
+: q
+: q
+: q
+$ New-Item UpdateLFEnvVar.ps1
+: q
+$ New-Item echoHello.ps1
+: q
+: q
+: q
+: q
+: q
+$ New-Item Quit.psq
+: q

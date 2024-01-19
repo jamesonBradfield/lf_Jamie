@@ -1,0 +1,44 @@
+# interpreter for shell commands
+set shell powershell
+# draw the box
+set drawbox true
+# display numbers
+set number true
+# display relativenumber
+set relativenumber true
+# display icons
+set icons true
+# turn off folder preview
+set preview false
+# set columns to 1(only possible with previews off)
+set ratios 1
+#Run Startup script.
+%~\.config\lf\PowershellScripts\Startup.ps1
+
+cmd open &start $Env:f
+# opening neovim
+map e $nvim $Env:f
+# map pager.
+map i $less $Env:f
+# open shell
+map w $powershell
+
+map r !~\.config\lf\PowershellScripts\RenameFile.ps1
+
+# not sure what this does
+cmd doc $lf -doc | less
+
+set scrolloff 10
+
+map <enter> shell
+#Start of custom lf config
+cmd q :quit
+
+map d $DeleteSelectedFile.ps1
+
+map Y $~\.config\lf\PowershellScripts\ClipSelectedFilePath.ps1
+
+map a push $New-Item<space>
+
+map A push $New-Item<space>-ItemType<space>"directory"<space>
+map R $~\.config\lf\PowershellScripts\recolumnLF.ps1
